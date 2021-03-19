@@ -1,0 +1,11 @@
+---
+layout: home
+title: PyThaiNLP
+subtitle: We build Thai NLP.
+gh-repo: pythainlp/pythainlp
+gh-badge: [star, fork]
+---
+
+Welcome to The Official PyThaiNLP Website.
+
+> PyThaiNLP is a Python package for text processing and linguistic analysis, similar to nltk, with focus on Thai language.

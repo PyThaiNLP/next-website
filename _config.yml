@@ -15,6 +15,7 @@ author: PyThaiNLP
 
 navbar-links:
   Blog: "blog"
+  Project: "project"
   Resources:
     - Corpus & Models: "https://pythainlp.github.io/pythainlp-corpus/"
   PyThaiNLP Project GitHub: "https://github.com/PyThaiNLP"

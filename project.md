@@ -22,6 +22,13 @@ NLP For Thai is website for collect open dataset and open source for Thai NLP.
 - Website: [NLPForThai.com](https://nlpforthai.com)
 - GitHub: [PyThaiNLP/nlpforthai.com](https://GitHub.com/PyThaiNLP/nlpforthai.com)
 
+## PyLexTo
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://GitHub.com/PyThaiNLP/PyLexTo/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/PyLexTo.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/PyLexTo/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/PyLexTo.svg)](https://GitHub.com/PyThaiNLP/PyLexTo/issues/)
+
+LexTo with Python 2 & 3 Wrapper. **No Maintained**
+
+- GitHub: [PyThaiNLP/PyLexTo](https://GitHub.com/PyThaiNLP/PyLexTo)
+
 ## PyThaiNLP
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/pythainlp/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/pythainlp.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/pythainlp/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/pythainlp.svg)](https://GitHub.com/PyThaiNLP/pythainlp/issues/)
 

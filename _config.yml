@@ -16,9 +16,10 @@ author: PyThaiNLP
 navbar-links:
   Blog: "blog"
   Project: "project"
-  Resources:
+  PyThaiNLP Resource:
     - Corpus & Models: "https://pythainlp.github.io/pythainlp-corpus/"
-  PyThaiNLP Project GitHub: "https://github.com/PyThaiNLP"
+    - 
+  GitHub: "https://github.com/PyThaiNLP"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image

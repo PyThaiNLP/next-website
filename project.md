@@ -1,5 +1,5 @@
 ---
 layout: project
 title: PyThaiNLP Project
-subtitle: We build Thai NLP.
+subtitle: All project on PyThaiNLP GitHub
 ---

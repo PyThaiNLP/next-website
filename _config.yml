@@ -213,7 +213,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "project"
+      type: "projects"
     values:
       layout: "post"
       comments: false  # add comments to all blog posts

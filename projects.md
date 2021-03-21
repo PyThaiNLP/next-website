@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PyThaiNLP Project
-subtitle: All project on PyThaiNLP GitHub
+title: PyThaiNLP Projects
+subtitle: All projects on PyThaiNLP GitHub
 ---
 
 All 24 projects

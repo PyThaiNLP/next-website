@@ -4,7 +4,7 @@ title: PyThaiNLP Projects
 subtitle: All project on PyThaiNLP GitHub
 ---
 
-All 22 projects
+All 24 projects
 
 ## AttaCut
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/attacut/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/attacut.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/attacut/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/attacut.svg)](https://GitHub.com/PyThaiNLP/attacut/issues/)
@@ -22,6 +22,14 @@ This repository is a collection of almost all Thai tokenisers that are publicly 
 
 - Owner and Maintainancer: [Pattarawat Chormai](https://github.com/heytitle)
 - GitHub: [PyThaiNLP/docker-thai-tokenizers](https://github.com/PyThaiNLP/docker-thai-tokenizers)
+
+## Lao language
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/lao-language/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/lao-language.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/docker-thai-tokenizers/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/lao-language.svg)](https://GitHub.com/PyThaiNLP/lao-language/issues/)
+
+Lao language resources for PyThaiNLP
+
+- Owner and Maintainancer: [Wannaphong Phatthiyaphaibun](https://github.com/wannaphong/)
+- GitHub: [PyThaiNLP/lao-language](https://github.com/PyThaiNLP/lao-language)
 
 ## lexicon-thai
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/lexicon-thai/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/lexicon-thai.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/lexicon-thai/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/lexicon-thai.svg)](https://GitHub.com/PyThaiNLP/lexicon-thai/issues/)
@@ -128,6 +136,15 @@ Predict budget from project names of [ThaiME](http://nscr.nesdb.go.th/thaime-pro
 
 - Owner and Maintainancer: [Charin Polpanumas](https://github.com/cstorm125)
 - GitHub: [PyThaiNLP/thaimaimeex](https://GitHub.com/PyThaiNLP/thaimaimeex)
+
+## ThaiNLP
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/thainlp/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/thainlp.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/thainlp/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/thainlp.svg)](https://GitHub.com/PyThaiNLP/thainlp/issues/)
+
+Simple API for PyThaiNLP
+
+- Owner and Maintainancer: [Wannaphong Phatthiyaphaibun](https://github.com/wannaphong/)
+- GitHub: [PyThaiNLP/thainlp](https://GitHub.com/PyThaiNLP/thainlp)
+
 
 ## Thai Lao Parallel corpus
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/Thai-Lao-Parallel-Corpus/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/Thai-Lao-Parallel-Corpus.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/Thai-Lao-Parallel-Corpus/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/Thai-Lao-Parallel-Corpus.svg)](https://GitHub.com/PyThaiNLP/Thai-Lao-Parallel-Corpus/issues/)

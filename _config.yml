@@ -132,7 +132,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-0JTKXND2XG"
+#google_analytics: "G-0JTKXND2XG"
 
 # Google Tag Manager ID
 gtm: "G-0JTKXND2XG"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PyThaiNLP Projects
+title: PyThaiNLP Project
 subtitle: All project on PyThaiNLP GitHub
 ---
 

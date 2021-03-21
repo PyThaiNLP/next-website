@@ -48,6 +48,13 @@ NLP For Thai is website for collect open dataset and open source for Thai NLP.
 - Website: [NLPForThai.com](https://nlpforthai.com)
 - GitHub: [PyThaiNLP/nlpforthai.com](https://GitHub.com/PyThaiNLP/nlpforthai.com)
 
+## prachathai-67k
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/prachathai-67k/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/prachathai-67k.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/prachathai-67k/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/prachathai-67k.svg)](https://GitHub.com/PyThaiNLP/prachathai-67k/issues/)
+
+News Article Corpus from Prachathai.com
+
+- GitHub: [PyThaiNLP/prachathai-67k](https://GitHub.com/PyThaiNLP/prachathai-67k)
+
 ## PyLexTo
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://GitHub.com/PyThaiNLP/PyLexTo/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/PyLexTo.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/PyLexTo/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/PyLexTo.svg)](https://GitHub.com/PyThaiNLP/PyLexTo/issues/)
 
@@ -76,6 +83,20 @@ Website for view a corpus: pythainlp.github.io/pythainlp-corpus/
 
 - Website: [pythainlp.github.io/pythainlp-corpus](https://pythainlp.github.io/pythainlp-corpus/)
 - GitHub: [PyThaiNLP/pythainlp-corpus](https://GitHub.com/PyThaiNLP/pythainlp-corpus)
+
+## Thai-constitution-corpus
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/Thai-constitution-corpus/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/Thai-constitution-corpus.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/Thai-constitution-corpus/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/Thai-constitution-corpus.svg)](https://GitHub.com/PyThaiNLP/Thai-constitution-corpus/issues/)
+
+Thai Constitution Corpus
+
+- GitHub: [PyThaiNLP/Thai-constitution-corpus](https://GitHub.com/PyThaiNLP/Thai-constitution-corpus)
+
+## Thai-Data-Privacy
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/Thai-Data-Privacy/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/Thai-Data-Privacy.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/Thai-Data-Privacy/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/Thai-Data-Privacy.svg)](https://GitHub.com/PyThaiNLP/Thai-Data-Privacy/issues/)
+
+ThaiDP = Thai Data Privacy Tool For Python
+
+- GitHub: [PyThaiNLP/Thai-Data-Privacy](https://GitHub.com/PyThaiNLP/Thai-Data-Privacy)
 
 ## Thai covid-19 situation
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/thai-covid-19-situation/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/thai-covid-19-situation.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/thai-covid-19-situation/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/thai-covid-19-situation.svg)](https://GitHub.com/PyThaiNLP/thai-covid-19-situation/issues/)

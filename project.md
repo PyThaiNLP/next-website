@@ -1,10 +1,10 @@
 ---
 layout: page
-title: PyThaiNLP Project
+title: PyThaiNLP Projects
 subtitle: All project on PyThaiNLP GitHub
 ---
 
-[WIP]
+All 22 projects
 
 ## AttaCut
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/attacut/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/attacut.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/attacut/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/attacut.svg)](https://GitHub.com/PyThaiNLP/attacut/issues/)
@@ -145,12 +145,28 @@ Thai Law Dataset (Act of Parliament)
 - Owner and Maintainancer: [Wannaphong Phatthiyaphaibun](https://github.com/wannaphong/)
 - GitHub: [PyThaiNLP/thai-law](https://GitHub.com/PyThaiNLP/thai-law)
 
+## Thai Synonym
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/thai-synonym/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/thai-synonym.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/thai-synonym/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/thai-synonym.svg)](https://GitHub.com/PyThaiNLP/thai-synonym/issues/)
+
+The synonym for thai (open source & open data)
+
+- Owner and Maintainancer: [Wannaphong Phatthiyaphaibun](https://github.com/wannaphong/)
+- GitHub: [PyThaiNLP/thai-synonym](https://GitHub.com/PyThaiNLP/thai-synonym)
+
 ## Thai Text Classification Benchmarks
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/classification-benchmarks/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/classification-benchmarks.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/classification-benchmarks/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/classification-benchmarks.svg)](https://GitHub.com/PyThaiNLP/classification-benchmarks/issues/)
 
 Thai text classification benchmarks
 
 - GitHub: [PyThaiNLP/classification-benchmarks](https://GitHub.com/PyThaiNLP/classification-benchmarks)
+
+## TTG : Thai Text Generator
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/Thai-Text-Generator/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/Thai-Text-Generator.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/Thai-Text-Generator/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/Thai-Text-Generator.svg)](https://GitHub.com/PyThaiNLP/Thai-Text-Generator/issues/)
+
+Thai Text Generator
+
+- Owner and Maintainancer: [Wannaphong Phatthiyaphaibun](https://github.com/wannaphong/)
+- GitHub: [PyThaiNLP/Thai-Text-Generator](https://GitHub.com/PyThaiNLP/Thai-Text-Generator)
 
 ## Wisesight Sentiment Corpus
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/wisesight-sentiment/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/wisesight-sentiment.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/wisesight-sentiment/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/wisesight-sentiment.svg)](https://GitHub.com/PyThaiNLP/wisesight-sentiment/issues/)

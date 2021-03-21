@@ -17,8 +17,9 @@ navbar-links:
   Blog: "blog"
   Project: "project"
   PyThaiNLP Resource:
+    - Docs: "https://pythainlp.github.io/docs/"
     - Corpus & Models: "https://pythainlp.github.io/pythainlp-corpus/"
-    - 
+    - Tutorials: "https://pythainlp.github.io/tutorials/"
   GitHub: "https://github.com/PyThaiNLP"
 # --- Logo --- #
 

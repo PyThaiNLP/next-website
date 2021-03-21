@@ -1,6 +1,6 @@
 # PyThaiNLP Website
 
-Website for PyThaiNLP Project [WIP]
+Website for PyThaiNLP Project
 
 # Credits
 

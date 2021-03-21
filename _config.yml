@@ -19,6 +19,7 @@ navbar-links:
   PyThaiNLP Resource:
     - Docs: "https://pythainlp.github.io/docs/"
     - Corpus & Models: "https://pythainlp.github.io/pythainlp-corpus/"
+    - Model Cards: "https://github.com/PyThaiNLP/pythainlp/wiki/Model-Cards"
     - Tutorials: "https://pythainlp.github.io/tutorials/"
   GitHub: "https://github.com/PyThaiNLP"
 # --- Logo --- #

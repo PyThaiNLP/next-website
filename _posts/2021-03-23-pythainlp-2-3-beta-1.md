@@ -10,6 +10,8 @@ comments: true
 
 `PyThaiNLP v2.3.0-beta1` is The first beta release of PyThaiNLP 2.3
 
+Install: `pip install --pre pythainlp[full]`
+
 Documentation: [https://pythainlp.github.io/dev-docs/index.html](https://pythainlp.github.io/dev-docs/index.html
 )
 Report bug: [https://github.com/PyThaiNLP/pythainlp/issues](https://github.com/PyThaiNLP/pythainlp/issues)

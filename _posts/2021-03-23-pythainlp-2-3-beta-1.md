@@ -63,10 +63,10 @@ See [PyThaiNLP 2.3 change log](https://github.com/PyThaiNLP/pythainlp/issues/445
 
 ## Links
 
-- Website: https://pythainlp.github.io
-- Docs: https://pythainlp.github.io/dev-docs/
-- GitHub: https://github.com/PyThaiNLP/pythainlp
-- Issues: https://github.com/PyThaiNLP/pythainlp/issues
+- Website: [https://pythainlp.github.io](https://pythainlp.github.io)
+- Docs: [https://pythainlp.github.io/dev-docs/](https://pythainlp.github.io/dev-docs/)
+- GitHub: [https://github.com/PyThaiNLP/pythainlp](https://github.com/PyThaiNLP/pythainlp)
+- Issues: [https://github.com/PyThaiNLP/pythainlp/issues](https://github.com/PyThaiNLP/pythainlp/issues)
 
 <a href="https://github.com/PyThaiNLP/pythainlp/graphs/contributors">
   <img src="https://contributors-img.firebaseapp.com/image?repo=PyThaiNLP/pythainlp" />

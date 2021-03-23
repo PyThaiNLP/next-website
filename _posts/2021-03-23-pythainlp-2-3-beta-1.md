@@ -12,9 +12,10 @@ comments: true
 
 Install: `pip install --pre pythainlp[full]`
 
-Documentation: [https://pythainlp.github.io/dev-docs/index.html](https://pythainlp.github.io/dev-docs/index.html
+
+- Documentation: [https://pythainlp.github.io/dev-docs/index.html](https://pythainlp.github.io/dev-docs/index.html
 )
-Report bug: [https://github.com/PyThaiNLP/pythainlp/issues](https://github.com/PyThaiNLP/pythainlp/issues)
+- Report bug: [https://github.com/PyThaiNLP/pythainlp/issues](https://github.com/PyThaiNLP/pythainlp/issues)
 
 
 See [PyThaiNLP 2.3 change log](https://github.com/PyThaiNLP/pythainlp/issues/445) #445

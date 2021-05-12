@@ -4,7 +4,7 @@ title: PyThaiNLP Projects
 subtitle: All projects on PyThaiNLP GitHub
 ---
 
-All 24 projects
+All 25 projects
 
 ## AttaCut
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
@@ -219,3 +219,12 @@ Thai Text Generator
 Social media messages in Thai language with sentiment label (positive, neutral, negative, question). Released to public domain under Creative Commons Zero v1.0 Universal license.
 
 - GitHub: [PyThaiNLP/wisesight-sentiment](https://GitHub.com/PyThaiNLP/wisesight-sentiment)
+
+## oxidized-thainlp
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PyThaiNLP/oxidized-thainlp/graphs/commit-activity)[![GitHub stars](https://img.shields.io/github/stars/PyThaiNLP/oxidized-thainlp.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/PyThaiNLP/oxidized-thainlp/stargazers/)[![GitHub issues](https://img.shields.io/github/issues/PyThaiNLP/oxidized-thainlp.svg)](https://GitHub.com/PyThaiNLP/oxidized-thainlp/issues/)
+
+PyThaiNLP port from Python to Rust
+
+- Maintainancer: [Thanathip Suntorntip](https://github.com/Gorlph)
+- GitHub: [PyThaiNLP/oxidized-thainlp](https://GitHub.com/PyThaiNLP/oxidized-thainlp)

@@ -10,6 +10,8 @@ Welcome to The Official PyThaiNLP Project Website.
 
 The PyThaiNLP Project is a Thai Natural Language Processing project. We build softwares and datasets for Thai language. Our Main Project is PyThaiNLP.
 
+**See all our project at [pythainlp.github.io/projects/](https://pythainlp.github.io/projects/)**
+
 PyThaiNLP is a Python package for text processing and linguistic analysis, similar to nltk, with focus on Thai language.
 
 ## PyThaiNLP Features

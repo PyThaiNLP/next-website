@@ -41,6 +41,7 @@ You can read at [INTHEWILD.md](https://github.com/PyThaiNLP/pythainlp/blob/dev/I
 - Chakri Lowphansirikul - documentation
 - Pattarawat Chormai - benchmarking
 - Thanathip Suntorntip - nlpO3 maintainance, Rust Developer
+- Can Udomcharoenchaikit - documentation and code
 
 
 ## Sponsors

@@ -39,3 +39,16 @@ You can read at [INTHEWILD.md](https://github.com/PyThaiNLP/pythainlp/blob/dev/I
 - Chakri Lowphansirikul - documentation
 - Pattarawat Chormai - benchmarking
 - Thanathip Suntorntip - nlpO3 maintainance, Rust Developer
+
+
+## Sponsors
+
+| Logo | Description |
+| --- | ----------- |
+| [![VISTEC-depa Thailand Artificial Intelligence Research Institute](https://airesearch.in.th/assets/img/logo/airesearch-logo.svg)](https://airesearch.in.th/)   | Since 2019 - 2022, our contributors Korakot Chaovavanich and Lalita Lowphansirikul have been supported by [VISTEC-depa Thailand Artificial Intelligence Research Institute](https://airesearch.in.th/).                 |
+| [![MacStadium](https://i.imgur.com/rKy1dJX.png)](https://www.macstadium.com)   | We get support free Mac Mini M1 from [MacStadium](https://www.macstadium.com) for doing Build CI.                  |
+
+
+<div align="center">
+  Made with ❤️ | PyThaiNLP Team 💻 |  "We build Thai NLP" 🇹🇭
+</div>

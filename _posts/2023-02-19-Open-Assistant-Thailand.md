@@ -11,6 +11,8 @@ comments: true
 
 ท่านสามารถอ่านรายละเอียดเพิ่มเติมได้ที่ [มาช่วยกันสร้างชุดข้อมูลบทสนทนาภาษาไทยสำหรับสอนแชทบอทที่เหมือน ChatGPT กัน!](https://www.blognone.com/node/132694)
 
+[pythainlp.github.io/Open-Assistant-Thailand/](https://pythainlp.github.io/Open-Assistant-Thailand/)
+
 
 We build Thai NLP.
 

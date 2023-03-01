@@ -4,4 +4,4 @@ title: About PyThaiNLP
 subtitle: PyThaiNLP
 ---
 
-PyThaiNLP is a Python library for Thai natural language processing. The library provides functions like word tokenization, part-of-speech tagging, transliteration, soundex generation, and spell checking.
+PyThaiNLP Project is a open source group that build the software/dataset for Thai language. [WIP]
